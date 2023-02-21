@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb401831-d9c5-4618-b89c-316273baee2c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/[5-3]-[5-6].py" afterDir="false" />
+    <list default="true" id="bb401831-d9c5-4618-b89c-316273baee2c" name="Changes" comment="Add blocks 5 and [5-3]-[5-6]">
+      <change afterPath="$PROJECT_DIR$/[5-8]-[5-11].py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[5] if.py" beforeDir="false" afterPath="$PROJECT_DIR$/[5] if.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[5-3]-[5-6].py" beforeDir="false" afterPath="$PROJECT_DIR$/[5-3]-[5-6].py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +18,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="629d4063-396c-4e0b-a9bc-a0565c854c58" />
+        <option name="url" value="https://github.com/YusufMukhametzyanov/Learn_Python_Erik_Metiz.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K7jnhsiQLQ5wSTHemEl7T7cPsZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,7 +58,30 @@
       <option name="presentableId" value="Default" />
       <updated>1673332683676</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add blocks 5 and [5-3]-[5-6]">
+      <created>1676343107550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676343107550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add blocks 5 and [5-3]-[5-6]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add blocks 5 and [5-3]-[5-6]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
