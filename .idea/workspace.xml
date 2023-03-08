@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb401831-d9c5-4618-b89c-316273baee2c" name="Changes" comment="Add blocks 5 and [5-3]-[5-6]">
-      <change afterPath="$PROJECT_DIR$/[6-1].py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[6-2].py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[6-3].py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[6-5].py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alien_no_points.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aliens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favorite_languages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aliens.py" beforeDir="false" afterPath="$PROJECT_DIR$/aliens.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
